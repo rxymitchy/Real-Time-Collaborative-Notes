@@ -21,12 +21,14 @@ const NoteEditor = ({ roomId }) => {
   };
 
   return (
-    <textarea
-      value={noteContent}
-      onChange={handleChange}
-      placeholder="Start typing..."
-      className="w-full h-96 p-4 border rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
-    />
+    <div className="bg-white p-6 rounded-lg shadow-lg">
+      <textarea
+        value={noteContent}
+        onChange={handleChange}
+        placeholder="Start typing..."
+        className="w-full h-96 p-4 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent resize-none"
+      />
+    </div>
   );
 };
 
