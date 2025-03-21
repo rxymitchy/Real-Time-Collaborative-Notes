@@ -1,11 +1,5 @@
 # Real-Time-Collaborative-Notes
 
-Here’s a comprehensive `README.md` file for your **Real-Time Collaborative Notes** project. This document provides an overview of the project, setup instructions, and explanations of key concepts.
-
----
-
-# Real-Time Collaborative Notes
-
 A real-time collaborative note-taking application built with **React**, **Socket.io**, and **Tailwind CSS**. This application allows multiple users to join a room, create, edit, and view notes in real-time.
 
 ---
@@ -182,7 +176,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or feedback, feel free to reach out:
 
-- **Your Name**
+- **Mitchelle A**
 - **Email**: lucianamitchell19@gmail.com
 
 ---
